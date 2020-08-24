@@ -1,0 +1,71 @@
+#startbutton{
+  background-color: white;
+  position: relative;
+  top: 190px;
+  text-align: center;
+  width: 250px;
+  height: 250px;
+  font-size: 35px;
+  line-height: 200px;
+  border: double 10px rgb(79, 55, 158);
+  border-radius: 50%;
+  vertical-align: middle;
+  overflow: hidden;
+  transition: .6s;
+  outline: none;
+}
+#ansbutton{
+  background-color: white;
+  position: relative;
+  top: 30px;
+  text-align: center;
+  width: 270px;
+  height: 270px;
+  font-size: 48px;
+  line-height: 200px;
+  border: double 10px rgb(79, 55, 158);
+  border-radius: 50%;
+  vertical-align: middle;
+  overflow: hidden;
+  transition: .6s;
+  outline: none;
+}
+#endbutton{
+  background-color: white;
+  position: relative;
+  top: 70px;
+  text-align: center;
+  width: 260px;
+  height: 140px;
+  font-size: 48px;
+}
+#detailsTitle{
+  position: relative;
+  top: 85px;
+  color: black;
+  font-size: 18px;
+  text-align: center;
+  outline: none;
+}
+#one{
+  background-color: whitesmoke;
+  display: inline-block;
+  position: relative;
+  top: 90px;
+  width: 120px;
+  height: 140px;
+  font-size: 17px;
+  text-align: center;
+  overflow: auto;
+}
+#sum{
+  background-color: whitesmoke;
+  display: inline-block;
+  position: relative;
+  top: 90px;
+  width: 120px;
+  height: 140px;
+  font-size: 17px;
+  text-align: center;
+  overflow: auto;
+}
